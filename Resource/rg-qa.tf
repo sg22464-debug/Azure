@@ -15,11 +15,3 @@ resource "azurerm_resource_group" "New RG" {
   name     = "rg-test"
   location = "central india"
 }
-resource "azurerm_resource_group" "New RG1" {
-  name     = "rg-test1"
-  location = "central india"
-}
-resource "azurerm_resource_group" "New RG1" {
-  name     = "rg-test2"
-  location = "central india"
-}
