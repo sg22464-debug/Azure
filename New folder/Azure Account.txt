@@ -1,0 +1,10 @@
+Sandeep.gupta@b18g101.online
+
+Pass-Nitya@321
+devops pass- Nitya@321
+
+vm:- 
+user:- fronted
+pass:- fronted@1234
+
+private IP vnet:- 10.143.0.0
